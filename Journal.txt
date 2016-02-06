@@ -1,0 +1,9 @@
+Today I worked on details for the first level I will build. I included the various resources involved in that level,
+the various units for the level, and the prices involved in the production of those units. I decided upon the
+countries involved in the level, the units that each country can build, and what historical event the level is
+going to be set in. I included in my list of details some of the various features I intend to add such as having
+wounded troops, and giving a way to reintegrate them into an army, or having some units give some resources when
+they are destroyed; for example a destroyed tank might give some metal. I also put some thought into how the
+battles will work, and how resource production will function. I am intending to have each bit of territory
+produce a certain amount of each resource, basing that amount off of what information I can find of the resources
+during that battle/war.

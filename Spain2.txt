@@ -1,0 +1,47 @@
+Country: Spain
+Level: The Worst Kind of War
+Actual Event: Spanish Civil War
+Player: Fascist Faction
+Friendly Factions: German Support, Italian Aid
+Enemy Factions: Republican Spain, Soviet Aid, Mexican Aid
+
+Factions With Units: Fascist Faction, German Support, Republican Spain
+
+Resources: Food, Trained Men, Population, Money, Metal, Oil, Industry, Wounded (Population and Wounded are converted to Trained men over time, some units when destroyed will yield component resources)
+
+Local Resources: Loyalty
+
+Fascist Faction Units: Infantry, Artillery, Fighter, Bomber, Tank,
+Anti-Tank Weapon, Anti-Air Weapon, Irregular Infantry,
+Destroyer, Cruiser, Battleship, Transport
+
+German Support Units: Bomber, Fighter
+
+Republican Spain Units: Infantry, Artillery, Fighter, Bomber, Tank,
+Anti-Tank Weapon, Anti-Air Weapon, Irregular Infantry,
+Destroyer, Cruiser, Battleship, Transport
+
+Unit Prices:
+Infantry: 1 trained men, 10 food per turn + 1 for moving and + 1 for fighting,
+5 money, 1 money per turn, 1 Industry
+Artillery: 2 trained men, 20 food per turn + 1 for moving and + 1 for fighting,
+125 money, 10 money per turn, 100 Industry, 80 Metal
+Fighter: 1 trained men, 10 food per turn, 550 money, 35 money per turn,
+450 Industry, 100 Metal, 1 Oil per turn + 25 for moving/fighting
+Bomber: 3 trained men, 30 food per turn, 1600 money, 100 money per turn,
+850 Industry, 250 Metal, 3 Oil per turn + 85 for moving/fighting
+Tank: 3 trained men, 30 food per turn, 775 money, 85 money per turn,
+650 Industry, 650 Metal, 1 Oil per turn + 65 for moving/fighting
+Anti-Tank Weapon: 2 trained men, 20 food per turn + 1 for moving and + 1 for fighting,
+130 money, 10 money per turn, 110 Industry, 85 Metal
+Anti-Air Weapon: 2 trained men, 20 food per turn + 1 for moving and + 1 for fighting,
+135 money, 11 money per turn, 115 Industry, 85 Metal
+Irregular Infantry: (Spawn in loyal areas, cannot be built) 1 Population, 9 food per turn + 1 for moving and + 1 for fighting
+Destroyer: 100 trained men, 1000 food per turn, 2500 money, 350 money per turn,
+1200 Industry, 3250 Metal, 75 Oil per turn + 200 for moving/fighting
+Cruiser: 240 trained men, 2400 food per turn, 4500 money, 475 money per turn,
+1700 Industry, 4250 Metal, 110 Oil per turn + 275 for moving/fighting
+Battleship: 350 trained men, 3500 food per turn, 8000 money, 600 money per turn,
+2700 Industry, 8350 Metal, 175 Oil per turn + 375 for moving/fighting
+Transport: 20 trained men, 200 food per turn, 1000 money, 200 money per turn,
+1000 Industry, 2750 Metal, 35 Oil per turn + 140 for moving/fighting

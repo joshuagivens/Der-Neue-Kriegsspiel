@@ -7,3 +7,14 @@ they are destroyed; for example a destroyed tank might give some metal. I also p
 battles will work, and how resource production will function. I am intending to have each bit of territory
 produce a certain amount of each resource, basing that amount off of what information I can find of the resources
 during that battle/war.
+
+An incredible amount of work has been done. I designed two of my maps and worked on the program itself.
+Between 50% and 75% of the basic programing for the first map is complete. The most critical thing will be
+constructing the GUI for the game and making it functional. I also need to finish up work on how battles will
+work and get the units working right. Then I will have to work on the AI for the first map, which will be most
+difficult. I then will have to work on the next map which I plan to be a "generated" environment, that is to say
+it will create AIs with different "personalities", generate random names for things, and generate who starts out
+with what. (This could get very complicated.) I am also planning for the next map to be in "space" (it is in reality
+a grid of hexagons). I also want the next map to focus somewhat more on individual units, with massive ships
+being able to smash countless smaller ones. I plan for the next map to also include politics, and trade with other
+players and AIs.

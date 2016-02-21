@@ -1,0 +1,119 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww23620\viewh18520\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\ql\qnatural\pardirnatural
+
+\f0\fs24 \cf0 Country: N/A\
+Level: Galactic Interest\
+Actual Event: Fiction (It never Happened)\
+Player: Whatever they want to be (within certain limits)\
+Friendly Factions: Depends on the player's diplomatic behavior\
+Enemy Factions: Depends on the player's diplomatic behavior\
+\
+Factions With Units: All factions\
+\
+Resources: Food, Money, Metal, Industry (Excess industry is not stored, but is instead converted to food or metal at a \'bd rate)\
+\
+Local Resources: Population\
+\
+Units: \
+		Fighters, \
+		Frigates, Destroyers, Light Cruisers, Medium Cruisers, Heavy Cruisers, Battlecruisers, Battleship, Heavy Battleship\
+		Escort Carriers, Light Carriers, Medium Carriers, Heavy Carriers\
+		Light Capitol Ship, Medium Capitol Ship, Heavy Capitol Ship, Sector Dominance Ship\
+		Light Defense Battery, Medium Defense Battery, Heavy Defense Battery (Also Buildings)\
+		Hangar (Also a Building, holds fighters)\
+\
+	Size :\
+		Frigates (1), Destroyers (2), Light Cruisers (3), Medium Cruisers (4), Heavy Cruisers (5), Battlecruisers (6), Battleship (7), Heavy Battleship (8)\
+		Escort Carriers (3), Light Carriers (4), Medium Carriers (5), Heavy Carriers (6)\
+		Light Capitol Ship (9), Medium Capitol Ship (10), Heavy Capitol Ship (12), Sector Dominance Ship (15)\
+\
+	Fighter Capacity: \
+		Destroyers (2), Light Cruisers (4), Medium Cruisers (6), Heavy Cruisers (8), Battlecruisers (10), Battleship (15), Heavy Battleship (18)\
+		Escort Carriers (30), Light Carriers (50), Medium Carriers (85), Heavy Carriers (120)\
+		Light Capitol Ship (150), Medium Capitol Ship (180), Heavy Capitol Ship (200), Sector Dominance Ship (300)\
+		Hangar (100)\
+	(Population can be carried to other planets using by ships in the amount (size*10 + carrier capacity*10 + 5))\
+\
+Unit Prices:\
+N/A\
+\
+Buildings:\
+Farm, Factory, Mine, Trading Center, Light Defense Battery, Medium Defense Battery, Heavy Defense Battery, Hangar\
+\
+Building Prices:\
+N/A\
+\
+Resource Production:\
+Population generates .1 money, and .1 other (depends on your government) \
+Farm generates 2000 food\
+Mine generates 800 metal\
+Factory generates 800 industry\
+Trading Center generates 500 money\
+(Production is modified by government and technology)\
+\
+Space:\
+Each planet has a certain amount of space that is available for constructing buildings on, this space can be increased with technology and terraforming.\
+\
+Technology:\
+Agriculture, Industrialization, Advanced Mining, Improved Finances, Space Efficiency (More space on a planet), Shields and Armor, Deadlier Weapons\
+(+ 10% per level in applicable subject, can end up multiplying significantly)\
+\
+Terraforming:\
+Not all planets are fully habitable, and resources are needed to change this.\
+\
+Population:\
+Generates most of the critical gold and other resources needed to run your economy. Requires 1 food per turn, but population can be allowed to drop at a rate of 1% per turn (except communists, which can drop at whatever rate they want) if it costs to much food, it costs 5 food to add a population.\
+\
+Government:\
+\
+At the start of every game you must choose a government type, and the policies, the policies can be changed, but the government type can't.\
+\
+	Communist (Economy: Collective resources or Government and private cooperative control of industry, Foreign Policy: any except trade oriented or colony focused), no	money (industry instead), can starve citizens\
+	Federal Republic (Economy: private industry, Foreign Policy: any), +5% resources\
+	Monarchy  (Economy: any, Foreign Policy: any), vassal resources +5%\
+	Confederation (Economy: private industry, Foreign Policy: peaceful coexistence, trade oriented or defensive), +20% attack/defense in home territory, can't start a war\
+	Fascist (Economy: any, Foreign Policy: any except peaceful coexistence oriented), + 5% attack/defense in combat\
+	Oligarchy (Economy: Government and private cooperative control of industry or private industry, Foreign Policy: any), player is given goals, +5% resources for completing them, -5% for failing them\
+	\
+		Economy: Government control (full control of production), Government and private cooperative control of industry (partial control of production, + 5% resources), 		Private industry (no control over production, + 10% resources),\
+		Foreign Policy: Expansive ( + 5% attack/defense in combat, can attack neighbors), Defensive (+ 15% attack/defense in home territory, can attack weak neighbors as a 		"defensive" maneuver), Trade Oriented (+5% resources, +20% money from trade), Peaceful Coexistence Oriented (+5% resources, +20% resources when at peace, 		can't start war), Colony Focused (+5% resources, -5% money from trade, +5% attack/defense against weak players, can attack weak players,)\
+\
+Culture:\
+Your "country's" culture is a value decided at the beginning of the game and cannot be changed.\
+Commercial (+5% money), Aggressive (+5% attack/defense), Xenophobic (-5% money from trade, +5% attack/defense in home territory), Peaceful (-5% attack/defense)\
+\
+Upkeep:\
+As you build things you will notice that each building or ship costs 1*size money per turn, and each fighter costs .1 gold per turn, also inflation starts adding on at a rate of 1% per turn. If you fail to meet the upkeep, you will suffer a penalty of -90% food, metal, and if you are not communist also -90% industry, and a -90% attack/defense penalty. Your score will drop significantly encouraging attacks against you. Don't run out of money!\
+\
+Blockade:\
+N/A\
+\
+Trade:\
+During the game it will be necessary to sell/trade/buy resources/planets/ship/"agreements".\
+\
+Puppets:\
+In some cases you can force a defeated power to become a puppet; it's score is added to yours, and it's diplomacy is the same as yours and it must help you when you ask it to.\
+\
+Vassals:\
+In some cases a weak power may become a vassal; half it's score is added to yours, and it is tied diplomatically and militarily to you; it can break its state of vassalage if it chooses to.\
+\
+Rebellion:\
+In some cases there are rebellions on planets (especially when there isn't enough food or money), which can try to form a new "country". These rebellions can be backed by other powers (you can back a rebellion against your neighbor, however this will hurt your diplomacy).\
+\
+Diplomacy:\
+Diplomacy is your relationship with other players. It is a tool to get resources, make wars manageable/avoidable, and can increase your score (having lots of friends is a good thing). \
+\
+War:\
+\
+\
+Free Passage:\
+This is an agreement that allows units to enter another "country's" territory, it can be mutual, paid for, or a "gift" to help someone kill an enemy more easily. Also gives +50 gold per connected planet when the agreement is mutual. If you declare war on someone while you have troops in their area, no one will want to sign a free passage agreement with you, everyone who isn't REALLY good friends with you will cancel their trades with you, and diplomacy in general will be hurt by your treachery.\
+\
+Galactic Council:\
+An attempt at galactic peace that failed. It is now a weak organization, that could be used to one's advantage.\
+\
+Loans:\
+Sometimes during a war you might run out of money or metal, in which case you could try to get a loan from another "country"; you can also give a loan to someone who needs it. (Loans can be given as support to a friend, or simply for the money you can get back for it.) Loans have a 1% per turn interest rate. Loans can also be left unpaid, however no one will want to give a loan to that player again, and diplomacy in general will be hurt by your dishonesty.}

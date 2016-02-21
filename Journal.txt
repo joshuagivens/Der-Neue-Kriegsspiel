@@ -18,3 +18,12 @@ with what. (This could get very complicated.) I am also planning for the next ma
 a grid of hexagons). I also want the next map to focus somewhat more on individual units, with massive ships
 being able to smash countless smaller ones. I plan for the next map to also include politics, and trade with other
 players and AIs.
+
+More work has been completed. I have commenced construction on the first level: Box Canyon (the Spain map
+level will be to complicated to complete before the first deliverable is due). It will be quite simple and include
+only the most basic concepts of movement and combat, which will mean that the AI can be quite simple (it will
+randomly move around). I have also set goals for the final map: Galactic Interest. Additionally I looked further
+into constructing GUIs which I still need to build. I discovered that there are ways to visual build GUIs which
+I need to find out how to get working. This will make my task much easier as I will be free to spend more effort
+on making the game work right. The project is progressing but I fear my long and growing list of ideas will
+leave me dissatisfied with the final product.

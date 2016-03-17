@@ -47,4 +47,13 @@ in version 1.0, to ten in version 1.1, and then increased up to twenty in versio
 penalty for having too many units in a tile; their damage is reduced, and they take slightly more damage (this prevents the winning
 strategy from being pilling all your units at the enemy, and instead forces the player to contest all three central zones to reduce the
 penalty and possibly break through and take territory to gain additional healing). The healing when not fighting also creates a
-potential strategy of cycling through units to keep all your units alive; the team that loses the first unit almost always losses.
+potential strategy of cycling through units to keep all your units alive; the team that loses the first unit almost always loses.
+
+The space map is progressing well. The map has been redesigned to be slightly more reasonable in size; this map is 307 tiles,
+about 1/4 of the size of the old one! The game has been set up to generate 307 "planets" randomly assigning the owner and size;
+with 307 tiles the randomness should create a relatively equal distribution. The names of the planets are from a list I created using
+city and country names (most of them are real). I also have set up a plan for the battles to be reported in a similar way to the last
+map; there will be humorously incompetent admirals (I like reusing things like the characters from the last map) commanding fleets
+that will be more dangerous to themselves (this is how it will be reported, the game will actually conduct the battles in a fairly
+realistic manner like the last one). Also I plan to have player "country" names be random (a chance for even more of my strange
+sense of humor). Theoretically the fleets could fight each other, but this has yet to be tested, and more work needs to be done.

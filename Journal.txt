@@ -57,3 +57,11 @@ map; there will be humorously incompetent admirals (I like reusing things like t
 that will be more dangerous to themselves (this is how it will be reported, the game will actually conduct the battles in a fairly
 realistic manner like the last one). Also I plan to have player "country" names be random (a chance for even more of my strange
 sense of humor). Theoretically the fleets could fight each other, but this has yet to be tested, and more work needs to be done.
+
+The work is progressing slowly; the buttons are for selecting planets are going slowly but are mostly finished. Work continues and
+the project should be finished on time. The player description has been set up, and I am noting that I may have trouble with doubles
+not being big enough for the quantities of resources the players will want to work with. The descriptions of the commanders is partially
+complete but needs reworking. Other things I need to set up are the diplomacy, changing the government, fleet control, construction and
+queuing, and tech research. The fleets will need to be modified to make movement work properly, tech will require only a little work, and
+setting up construction queues will require a little bit of additional work. Changing governments will require a fair amount of work
+because of all the rules about what governments can have what policies, and how changes will be made.

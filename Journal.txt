@@ -65,3 +65,16 @@ complete but needs reworking. Other things I need to set up are the diplomacy, c
 queuing, and tech research. The fleets will need to be modified to make movement work properly, tech will require only a little work, and
 setting up construction queues will require a little bit of additional work. Changing governments will require a fair amount of work
 because of all the rules about what governments can have what policies, and how changes will be made.
+
+SpaceMap has been given a basic level of functionality. It currently has two players skirmish over the galaxy, but lacks the diplomacy that the
+final version will have. It also lacks technology development and doesn't have all of the ships available. It does however have the battles function
+correctly. I should warn the user that fighters have not been implemented making hangars completely useless in this version. An intentional and
+interesting feature is that battles only occur at the end of the defenders turn. This allows the defender time to move in ships, and allows them to install
+defensive batteries, the most powerful unit currently available. Another important thing to note is that there are no movement restrictions in this version.
+The game also seems to function as a countdown to when the players run out of food, but running out of food will have no consequences for the player.
+The queue system seems to work well, but I would like to add canceling. The populations of planets are currently not adjustable as they are planned to be.
+Fleet control has been refined to allow the player to select a planet and then use indexes to select the ships. A really nice feature that I have found is that if
+you select index 0 and hit enter enough, you can select the whole fleet easily. The cancel button deselects all of the ships at the planet. To move ships, select
+them and then go to the galactic view mode and select the planet.  If you need to you can move them again if you change your mind. I recommend that you
+purchase economic buildings and defensive batteries at the beginning to prepare yourself better for later in the game. Remember that y mines produce metal,
+factories produce industry, and citizens make whatever they feel like making (random).

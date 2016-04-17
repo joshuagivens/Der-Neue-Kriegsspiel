@@ -87,3 +87,17 @@ politicians are put in various positions to give bonuses, but beware every polit
 switching politicians around to see what fits your plan best; switching between economic and military bonuses during war can give you the decisive edge
 you need to dominate the galaxy. In also plan to increase ship sizes, and intend to make defense batteries more powerful, along with hangars. Fighters are
 now functional also (I'm pretty sure they are doing what I want them to do), and are automatically refilled after battles.
+
+The AI has been partially added. It has been given the logic to analyze the threats to it and set itself to the appropriate mode. It then researches it's techs
+accordingly. Then based on it's food situation it adjusts it's population growth rate (more population is better, but negative food is very bad). After this
+it auto-upgrades the ships (which currently does nothing since the AI doesn't build ships). After this the AI will set it's queue (this has not been
+implemented yet), and then move it's ships to protect itself, or even attack it's enemies (only if it is at war, this part has also not been implemented yet as it
+would require the AI to build ships to move them and it can't build anything). The AI will also have logic for using both what it builds and what it already
+has to try to avoid unnecessary fights. The AI's modes are a way to make the AI focus at different ratios on economic and military development. The AI will
+try to disperse it's structures so as to make losing a planet less important (it will only sacrifice a planet if thinks it can't deploy enough ships to stop the 
+invasion). It will also try to a looser degree work with other AI's if they are at war with the same player (they might simultaneously attack the player so that
+the player will lose a planet). The AI might also send distracting raids with small ships to divert some of the player's ships and waste a few resources to force the
+player to make peace (repairing damaged ships costs stuff). I am also adding difficulty levels because theoretically the AI will analyze most information more
+easily and effectively than the player (technically the player could play exactly like the AI plays, and if the player plays it right they have a slight advantage over
+the AIs in analyzing combat advantages (and I mean slight), and the player will have an advantage over the AIs in diplomacy (the AIs can be influenced with
+diplomacy, the player can't) and possibly in constructions). The difficulty levels give a bonus or a penalty to the AI that effects it in combat, and in economic matters.

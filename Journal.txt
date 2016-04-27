@@ -101,3 +101,11 @@ player to make peace (repairing damaged ships costs stuff). I am also adding dif
 easily and effectively than the player (technically the player could play exactly like the AI plays, and if the player plays it right they have a slight advantage over
 the AIs in analyzing combat advantages (and I mean slight), and the player will have an advantage over the AIs in diplomacy (the AIs can be influenced with
 diplomacy, the player can't) and possibly in constructions). The difficulty levels give a bonus or a penalty to the AI that effects it in combat, and in economic matters.
+
+The work continues on the map. I have started building the logic for buying ships and plan to add in the logic to move ships. I have fixed a problem where there was
+a certain point at which technology research would have a negative cost (free money isn't how research should work) and then go positive again and then finally end
+at negative. I have also increased the base prices of researching. I also found a problem with playing the game: if the player buys ships instead of production buildings
+then their economy will be doomed by the money cost to support the ships which means no research can be done and nothing can be produced when a resource is
+negative. The solution was simple: add another bit to the game where ships can be scrapped to return a bit of their money and metal cost (and special resources if it is
+upgraded), and more importantly then the player can prevent a painful death to their economy. I have also experimented with increasing how much the population
+produces, and found that I have to be careful not to make it to easy to simply run an economy with a massive population and farms.

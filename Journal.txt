@@ -109,3 +109,9 @@ then their economy will be doomed by the money cost to support the ships which m
 negative. The solution was simple: add another bit to the game where ships can be scrapped to return a bit of their money and metal cost (and special resources if it is
 upgraded), and more importantly then the player can prevent a painful death to their economy. I have also experimented with increasing how much the population
 produces, and found that I have to be careful not to make it to easy to simply run an economy with a massive population and farms.
+
+I have completed the logic for building ships. I have also begun on the logic for moving them. The AI will move ships based on attacks against it, enemy strength, it's
+strength, and a small element of randomness. It will be able to make small raids to conquer worlds that the player ignores and also to drain the players resources. It will
+also be able to know to defend it's worlds that are attacked, but also have a logic for preserving it's fleet by retreating, or even making raids on the worlds being attacked
+or by raiding the player's worlds. When the AI attacks for real it will also send some raids to force the player to spread his fleet out. I have also been told that my game
+needs a tutorial, which will be difficult to construct. Other features that I need to add are multiple players, diplomacy, and a way to exchange resources easily.
